@@ -78,3 +78,7 @@ Delete in this order: Amplify app, API Gateway API, Lambda function, DynamoDB ta
 ## Credits
 
 Based on the *"Build an end-to-end AWS web application"* tutorial by **Tiny Technical Tutorials** on YouTube. The sample code (HTML, Lambda) is from that tutorial; the documentation, troubleshooting notes and extras are my own.
+
+## Demo
+
+![App demo](docs/demo.png)
